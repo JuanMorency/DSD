@@ -1,0 +1,184 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Eg36_comp6
+Z0 w1443644753
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\juan-\Documents\University\University 5\DSD\Lab\Lab 1
+Z4 8C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_comp6.vhd
+Z5 FC:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_comp6.vhd
+l0
+L24
+VjZCB[dO0zMJTT@A`]=oWi3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1443728358.786000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_comp6.vhd|
+Z9 !s107 C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_comp6.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 DP77i56EDQ97LKD;3HHH41
+!i10b 1
+Abdf_type
+R1
+R2
+DEx4 work 9 g36_comp6 0 22 jZCB[dO0zMJTT@A`]=oWi3
+l45
+L33
+VT>AOc=JehOSfWEHmW9^]P3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 8Ke]Fc=]E?^ezKK7^F5[30
+!i10b 1
+Eg36_lab1
+Z12 w1443040848
+R1
+R2
+R3
+Z13 8C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_lab1.vhd
+Z14 FC:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_lab1.vhd
+l0
+L24
+VjhX0ZLe^zLc=29<_WJmBk0
+R6
+32
+Z15 !s108 1443728359.489000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_lab1.vhd|
+Z17 !s107 C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_lab1.vhd|
+R10
+R11
+!s100 ddUYm][Vd;cL;F@i@dj<[0
+!i10b 1
+Abdf_type
+R1
+R2
+DEx4 work 8 g36_lab1 0 22 jhX0ZLe^zLc=29<_WJmBk0
+l44
+L33
+VSm]3V7K:SMLf6joI?H2@40
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 OoH??^B1V_bOl?Ff2OYo^2
+!i10b 1
+Eg36_lab1_vhd_tst
+Z18 w1443646942
+Z19 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z20 8C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_lab1.vht
+Z21 FC:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_lab1.vht
+l0
+L31
+VWVHPj0b=hRfEoj=>NC4W=3
+R6
+32
+Z22 !s108 1443728359.957000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_lab1.vht|
+Z24 !s107 C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_lab1.vht|
+R10
+R11
+!s100 >`@LAOh<ZzN]^bOC3b8dI0
+!i10b 1
+Ag36_lab1_arch
+R19
+R1
+R2
+DEx4 work 16 g36_lab1_vhd_tst 0 22 WVHPj0b=hRfEoj=>NC4W=3
+l46
+L33
+VLjhAbkdSkOcmlKWC4M1k@0
+R6
+32
+R22
+R23
+R24
+R10
+R11
+!s100 BZKFV7COOHa>RZkL6BhMQ2
+!i10b 1
+Eg36_num1s
+Z25 w1444249476
+R1
+R2
+R3
+Z26 8C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_num1s.vhd
+Z27 FC:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_num1s.vhd
+l0
+L15
+Vm@7VReCQbb5>]Sa@jA4mW2
+R6
+32
+Z28 !s108 1444251502.437000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_num1s.vhd|
+Z30 !s107 C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/g36_num1s.vhd|
+R10
+R11
+!s100 [hKUD_hD;J=_RiGVVPj4R1
+!i10b 1
+Adesign
+R1
+R2
+DEx4 work 9 g36_num1s 0 22 m@7VReCQbb5>]Sa@jA4mW2
+l23
+L19
+V;GCO0A=XO32XGhzaQbz[i0
+!s100 D[9LJlfmn^IW]28Ng6i>13
+R6
+32
+R28
+R29
+R30
+R10
+R11
+!i10b 1
+Eg36_num1s_vhd_tst
+Z31 w1444251449
+R19
+R1
+R2
+R3
+Z32 8C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_num1s.vht
+Z33 FC:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_num1s.vht
+l0
+L19
+V38n9MM;WB?C1^gG>e>Pg23
+!s100 4G2`YdQ[[eY:mQQ7K3B1:1
+R6
+32
+!i10b 1
+Z34 !s108 1444251502.688000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_num1s.vht|
+Z36 !s107 C:/Users/juan-/Documents/University/University 5/DSD/Lab/Lab 1/simulation/modelsim/g36_num1s.vht|
+R10
+R11
+Ag36_num1s_arch
+R19
+R1
+R2
+Z37 DEx4 work 17 g36_num1s_vhd_tst 0 22 38n9MM;WB?C1^gG>e>Pg23
+l32
+L21
+VkRkDZYj7`TJk;YeRoQnDc3
+!s100 W8W8474C>oi1o0CX0jQkT2
+R6
+32
+!i10b 1
+R34
+R35
+R36
+R10
+R11

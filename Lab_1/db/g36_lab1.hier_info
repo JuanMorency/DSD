@@ -1,0 +1,46 @@
+|g36_num1s
+X[0] => num1s.IN0
+X[0] => num1s.IN0
+X[0] => num1s.IN0
+X[0] => num1s.IN0
+X[0] => num1s.IN0
+X[0] => num1s.IN0
+X[1] => num1s.IN1
+X[1] => num1s.IN0
+X[1] => num1s.IN0
+X[1] => num1s.IN1
+X[1] => num1s.IN1
+X[1] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[2] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[3] => num1s.IN1
+X[4] => ~NO_FANOUT~
+num1s[0] <= num1s.DB_MAX_OUTPUT_PORT_TYPE
+num1s[1] <= num1s.DB_MAX_OUTPUT_PORT_TYPE
+num1s[2] <= num1s.DB_MAX_OUTPUT_PORT_TYPE
+
+

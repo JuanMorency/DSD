@@ -1,0 +1,8 @@
+-- One counter unit 
+-- input 4 bits
+-- output 3 bits
+
+entity g36_num1s is 
+port ( X     : in std_logic_vector(3 downto 0); 
+        num1s : out std_logic_vector(2 downto 0)); 
+end g00_num1s; 
